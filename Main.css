@@ -17,7 +17,8 @@ body {
 
 .links {
     color: white;
-    text-decoration: none; 
+    text-decoration: none;
+    size: 24px; 
 }
 
 .options {
