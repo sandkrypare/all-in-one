@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(89, 101, 112);
 }
@@ -5,19 +11,18 @@ body {
 .box1 {
     display: flex;
     width: 100%;
-    background-color: rgb(97, 97, 97);
-    justify-content: start;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
 }
 
 .links {
     color: white;
-    text-decoration: none;
-    text-align: center;
+    text-decoration: none; 
 }
 
 .options {
     float: left;
-    padding: 20px;
+    padding: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     list-style: none;
     transition: all 0.3s ease 0s;
