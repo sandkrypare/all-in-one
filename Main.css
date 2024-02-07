@@ -2,10 +2,26 @@ body {
     background-color: rgb(89, 101, 112);
 }
 
-.header {
-    padding: 60px;
-    text-align: left;
-    background: #1abc9c;
+.box1 {
+    display: flex;
+    width: 100%;
+    background-color: rgb(97, 97, 97);
+    justify-content: start;
+}
+
+.links {
     color: white;
-    font-size: 30px;
+    text-decoration: none;
+}
+
+.options {
+    float: left;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    transition: all 0.3s ease 0s;
+}
+
+.options:hover {
+    background-color: rgb(147, 199, 199);
 }
