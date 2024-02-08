@@ -64,7 +64,7 @@ body {
 }
 
 .box a:hover .bildlänk {
-    opacity: .5;
+    opacity: .2 ease;
     background-color: rgb(89, 101, 112);
 }
 /* BILD */
