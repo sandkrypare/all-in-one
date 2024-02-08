@@ -8,6 +8,7 @@ body {
     background-color: rgb(89, 101, 112);
 }
 
+/* HEADER */
 .box1 {
     display: flex;
     width: 100%;
@@ -32,3 +33,33 @@ body {
 .options:hover {
     background-color: rgb(89, 101, 112);
 }
+/* HEADER */
+
+/* BILD */
+.box {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.imgwrap {
+    width: 50%;
+    /*or whatever you choose*/
+    margin: auto;
+}
+
+.imgwrap img {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    /*actual image width*/
+    height: auto;
+    /* maintain aspect ratio*/
+    margin: auto;
+    /*optional centering of image*/
+}
+
+/* BILD */
