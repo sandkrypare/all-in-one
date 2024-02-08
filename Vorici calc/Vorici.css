@@ -54,12 +54,9 @@ body {
 .imgwrap img {
     display: block;
     width: 100%;
-    max-width: 1059px;
-    /*actual image width*/
-    height: auto;
-    /* maintain aspect ratio*/
-    margin: auto;
-    /*optional centering of image*/
+    max-width: 1059px; /*actual image width*/
+    height: auto; /* maintain aspect ratio*/
+    margin: auto; /*optional centering of image*/
 }
 
 .bildlänk {
