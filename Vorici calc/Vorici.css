@@ -54,7 +54,7 @@ body {
 .imgwrap img {
     display: block;
     width: 100%;
-    max-width: 500px;
+    max-width: 1059px;
     /*actual image width*/
     height: auto;
     /* maintain aspect ratio*/
