@@ -68,3 +68,14 @@ body {
     background-color: rgb(89, 101, 112);
 }
 /* BILD */
+
+
+.textbox1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p1 {
+
+}
