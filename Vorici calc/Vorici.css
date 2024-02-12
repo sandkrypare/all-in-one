@@ -61,7 +61,6 @@ body {
 
 .bildlänk {
     transition: .5s;
-    opacity: .2;
 }
 
 .box a:hover .bildlänk {
