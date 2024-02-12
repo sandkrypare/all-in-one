@@ -63,7 +63,7 @@ body {
     transition: .5s;
 }
 
-.box:hover .bildlänk {
+.box a:hover .bildlänk {
     opacity: .2;
     background-color: rgb(89, 101, 112);
 }
