@@ -60,10 +60,25 @@ body {
 }
 
 .bildlänk {
-    transition: .5s ease;
+    transition: .5s;
 }
 
-.box:hover div {
+.box:hover .bildlänk {
     opacity: .2;
     background-color: rgb(89, 101, 112);
 }
+/* BILD */
+
+/*
+.textbox1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p1 {
+    color: white;
+    font-size: 200%;
+}
+
+*/
