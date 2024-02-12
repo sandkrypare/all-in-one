@@ -46,8 +46,7 @@ body {
 }
 
 .imgwrap {
-    width: 50%;
-    /*or whatever you choose*/
+    width: 50%; /*or whatever you choose*/
     margin: auto;
 }
 
