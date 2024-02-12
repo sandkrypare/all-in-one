@@ -58,15 +58,12 @@ body {
     margin: auto; /*optional centering of image*/
 }
 
-.bildlänk {
-    transition: .5s;
+.imgwrap:hover div {
+    opacity: 1;
+    transition: all 0.2s ease-in;
 }
 
-.box a:hover .bildlänk {
-    opacity: .2;
-    transition: .5s;
-    background-color: rgb(89, 101, 112);
-}
+
 /* BILD */
 
 /*
