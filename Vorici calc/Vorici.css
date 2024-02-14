@@ -70,6 +70,27 @@ body {
     
 }
 
+.boximage,
+.hovertext {
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    display: block;
+    color: #EEEEEE;
+    background-color: #1c5bb1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 530px;
+    height: auto;
+    line-height: 50px;
+    position: absolute;
+    font-size: 12px;
+    font-weight: bold;
+}
+
 /* BILD */
 
 /*
