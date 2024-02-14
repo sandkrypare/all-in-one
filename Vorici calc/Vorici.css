@@ -78,15 +78,15 @@ body {
     display: block;
     color: #EEEEEE;
     background-color: #1c5bb1;
-    width: 530px;
-    height: 273px;
+    width: 265px;
+    height: 137px;
     line-height: 50px;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
     position: absolute;
-    font-size: 12px;
+    font-size: 48px;
     font-weight: bold;
 
 }
