@@ -120,12 +120,9 @@ img.bg {
 
 .textbox2 .hovertext {
     width: 100%;
-    max-width: 1920px;
-        /*actual image width*/
+    max-width: 265px;
     height: auto;
-        /* maintain aspect ratio*/
     margin: auto;
-        /*optional centering of image*/
 
 }
 
