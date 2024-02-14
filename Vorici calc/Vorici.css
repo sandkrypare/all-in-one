@@ -137,7 +137,8 @@ img.bg {
 }
 
 .hovertext:hover {
-   background-color: rgb(34, 38, 43);
+   /*background-color: rgb(34, 38, 43);*/
+   opacity: 0.33;
 }
 
 /* LINKS */
