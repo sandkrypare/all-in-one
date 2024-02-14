@@ -84,8 +84,9 @@ img.bg {
 }
 
 
-/* BILD */
+/* -------- BILD ------- */
 
+/* LINKS */
 .textbox {
     display: flex;
     position: relative;
@@ -104,13 +105,28 @@ img.bg {
     display: grid;
     color: #EEEEEE;
     max-width: 265px;
-    width: 100%;
     max-height: 137px;
-    height: auto;
-    font-size: 48px;
+    font-size: 40px;
     font-weight: bold;
     padding: 15px;
-    transition: 0.2s ease-in; 
+    transition: 0.2s ease-in;
+
+}
+
+.textbox2 {
+    width: 50%; /*or whatever you choose*/
+    margin: auto;
+}
+
+.textbox2 .hovertext {
+    display: block;
+    width: 100%;
+    max-width: 1920px;
+        /*actual image width*/
+    height: auto;
+        /* maintain aspect ratio*/
+    margin: auto;
+        /*optional centering of image*/
 
 }
 
@@ -125,4 +141,4 @@ img.bg {
    background-color: rgb(34, 38, 43);
 }
 
-
+/* LINKS */
