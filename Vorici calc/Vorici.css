@@ -95,8 +95,6 @@ body {
     color: #EEEEEE;
     width: 265px;
     height: 137px;
-    line-height: 50px;
-    position: relative;
     font-size: 48px;
     font-weight: bold;
     padding: 15px;
@@ -106,6 +104,7 @@ body {
 
 .links2 {
     float: left;
+    background-color: rgb(79, 89, 99);
 }
 
 
