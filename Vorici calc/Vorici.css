@@ -65,7 +65,7 @@ body {
 }
 
 .boximage div {
-    opacity: 1;
+    opacity: 0;
     transition: all 0.2s ease-in;
     
 }
