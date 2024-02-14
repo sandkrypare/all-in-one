@@ -95,7 +95,7 @@ body {
     width: 265px;
     height: 137px;
     line-height: 50px;
-    position: absolute;
+    position: relative;
     font-size: 48px;
     font-weight: bold;
     justify-content: center;
