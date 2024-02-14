@@ -89,7 +89,7 @@ body {
     text-decoration: none;
     text-align: center;
     margin: auto;
-    display: block;
+    display: grid;
     color: #EEEEEE;
     background-color: #1c5bb1;
     width: 265px;
