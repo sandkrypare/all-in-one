@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+img.bg {
     background-image: url(WebbBild.jpg);
     /* Set rules to fill background */
         min-height: 100%;
@@ -23,7 +23,7 @@ body {
 @media screen and (max-width: 1920px) {
 
     /* Specific to this particular image */
-    body {
+    img.bg {
         left: 50%;
         margin-left: -960px;
         /* 50% */
@@ -82,20 +82,6 @@ body {
     margin: auto; /*optional centering of image*/
 }
 
-/*
-.boximage:hover div {
-    opacity: 0.33;
-    transition: all 0.2s ease-in;
-    background-color: rgba(255, 255, 255, 0.3);
-}
-
-.boximage div {
-    opacity: 1;
-    transition: all 0.2s ease-in;
-    
-}
-
-*/
 
 /* BILD */
 
@@ -137,27 +123,3 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-/*
-.textbox1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.p1 {
-    color: white;
-    font-size: 200%;
-}
-
-*/
