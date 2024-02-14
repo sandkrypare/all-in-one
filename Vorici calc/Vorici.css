@@ -101,7 +101,6 @@ img.bg {
     box-sizing: border-box;
     text-decoration: none;
     text-align: center;
-    margin: auto;
     display: grid;
     color: #EEEEEE;
     max-width: 265px;
