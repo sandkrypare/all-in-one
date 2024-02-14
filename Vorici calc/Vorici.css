@@ -99,11 +99,11 @@ body {
     font-size: 48px;
     font-weight: bold;
     padding: 15px;
+    background-color: rgb(79, 89, 99);
 
 }
 
 .links2 {
-    background-color: rgb(79, 89, 99);
     float: left;
 }
 
