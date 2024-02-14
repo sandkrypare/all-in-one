@@ -103,8 +103,10 @@ img.bg {
     margin: auto;
     display: grid;
     color: #EEEEEE;
-    width: 265px, auto;
-    height: 137px, auto;
+    max-width: 265px;
+    width: 100%;
+    max-height: 137px;
+    height: auto;
     font-size: 48px;
     font-weight: bold;
     padding: 15px;
