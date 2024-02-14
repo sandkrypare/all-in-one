@@ -65,10 +65,15 @@ body {
 }
 
 .boximage div {
-    opacity: 0;
+    opacity: 1;
     transition: all 0.2s ease-in;
     
 }
+
+
+
+/* BILD */
+
 
 .hovertext {
     box-sizing: border-box;
@@ -91,7 +96,17 @@ body {
 
 }
 
-/* BILD */
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 .textbox1 {
