@@ -103,7 +103,8 @@ body {
 }
 
 .links2 {
-    background-color: rgb(79, 89, 99);;
+    background-color: rgb(79, 89, 99);
+    float: left;
 }
 
 
