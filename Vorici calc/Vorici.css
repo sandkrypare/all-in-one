@@ -131,7 +131,7 @@ img.bg {
 }
 
 .links2 {
-    float: left;
+    float: center;
     background-color: rgb(79, 89, 99);
     color: white;
     text-decoration: none;
