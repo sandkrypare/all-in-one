@@ -74,6 +74,12 @@ body {
 
 /* BILD */
 
+.textbox {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
 
 .hovertext {
     box-sizing: border-box;
