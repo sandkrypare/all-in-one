@@ -58,6 +58,7 @@ body {
     margin: auto; /*optional centering of image*/
 }
 
+/*
 .boximage:hover div {
     opacity: 0.33;
     transition: all 0.2s ease-in;
@@ -70,7 +71,7 @@ body {
     
 }
 
-
+*/
 
 /* BILD */
 
